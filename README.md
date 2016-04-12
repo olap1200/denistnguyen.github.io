@@ -4,4 +4,4 @@
 
 ## Description
 
-This will be the main portfolio page for Denis Nguyen. I am currently located in New York City.
+This will be the main portfolio page for Denis Nguyen. I am currently located in New York City and attending NYC Data Science Academy.
